@@ -1,2 +1,3 @@
 # GermanReturnYoutubeDislikeTrojan
-English: Batch virus created by me. German: Von mir erstellter Batch-Virus.
+English: Batch virus created by me. 
+German: Von mir erstellter Batch-Virus.
